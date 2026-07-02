@@ -1,0 +1,34 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" rx="28" fill="#0B1020"/>
+  <rect x="28" y="28" width="1224" height="584" rx="24" fill="url(#paint0_linear)"/>
+  <circle cx="1112" cy="148" r="118" fill="#F59E0B" fill-opacity="0.18"/>
+  <circle cx="172" cy="522" r="138" fill="#10B981" fill-opacity="0.16"/>
+  <circle cx="1006" cy="502" r="86" fill="#FB7185" fill-opacity="0.16"/>
+  <rect x="84" y="92" width="238" height="44" rx="22" fill="#111827"/>
+  <text x="112" y="120" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Codex Skill</text>
+  <text x="84" y="224" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700">Vibe Coding PRD</text>
+  <text x="84" y="286" fill="#D1D5DB" font-family="Arial, Helvetica, sans-serif" font-size="28">Turn fuzzy product input into implementation-ready Markdown PRDs.</text>
+  <rect x="84" y="352" width="510" height="160" rx="24" fill="#0F172A" fill-opacity="0.78" stroke="#334155"/>
+  <text x="116" y="398" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Signal In</text>
+  <text x="116" y="438" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="24">需求 / 原始 PRD / 竞品分析 / 飞书链接</text>
+  <text x="116" y="484" fill="#93C5FD" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Signal Out</text>
+  <text x="116" y="524" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="24">MVP scope, wireframe, tech stack, acceptance criteria</text>
+  <rect x="748" y="170" width="396" height="292" rx="28" fill="#FFF7ED"/>
+  <rect x="780" y="206" width="210" height="16" rx="8" fill="#F59E0B"/>
+  <rect x="780" y="246" width="292" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="780" y="274" width="246" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="780" y="316" width="122" height="12" rx="6" fill="#10B981"/>
+  <rect x="780" y="338" width="296" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="780" y="360" width="258" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="780" y="398" width="122" height="12" rx="6" fill="#10B981"/>
+  <rect x="780" y="420" width="250" height="12" rx="6" fill="#E2E8F0"/>
+  <path d="M640 212C698 212 714 248 752 284" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round" stroke-dasharray="14 16"/>
+  <path d="M640 430C700 430 714 398 752 362" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round" stroke-dasharray="14 16"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="71" y1="60" x2="1185" y2="586" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.54" stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#7C2D12"/>
+    </linearGradient>
+  </defs>
+</svg>
