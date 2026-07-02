@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding PRD"
+  short_description: "把需求或原始PRD提炼成可直接编码的精简PRD文档"
+  default_prompt: "使用 $vibe-coding-prd 把这份需求、原始 PRD、竞品分析或飞书链接整理成可直接交给 Claude Code 或 Codex 的精简 PRD。"
